@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Framework , courses**
 
-- 💬 Ask me about **python, javascript, php**
+- 💬 Ask me about **Nextjs, Reactjs, python, Typescript, Laravel**
 
 - 📫 How to reach me **selomadzomla@gmail.com**
 
